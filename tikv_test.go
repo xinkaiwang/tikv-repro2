@@ -2,14 +2,10 @@ package main
 
 import (
 	"context"
-	// "flag"
 	"encoding/hex"
-	// "fmt"
-	// "os"
 	"testing"
 
 	"github.com/tikv/client-go/config"
-	// "github.com/tikv/client-go/key"
 	"github.com/tikv/client-go/txnkv"
 	"github.com/stretchr/testify/assert"
 )
